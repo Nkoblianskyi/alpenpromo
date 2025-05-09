@@ -1,0 +1,66 @@
+[
+  {
+    "id": "werbetafeln",
+    "title": "Werbetafeln",
+    "shortDescription": "Auffällige Billboards und Plakatwände an strategischen Standorten.",
+    "description": "Unsere Werbetafeln und Billboards bieten maximale Sichtbarkeit an stark frequentierten Standorten. Wir helfen Ihnen bei der Auswahl der besten Standorte, dem Design Ihrer Werbebotschaft und der Produktion hochwertiger Werbeflächen, die Aufmerksamkeit erregen und Ihre Marke stärken.",
+    "features": [
+      "Strategische Standortauswahl",
+      "Kreatives Design und Konzeption",
+      "Hochwertige Druckqualität",
+      "Verschiedene Größen und Formate",
+      "Installation und Wartung",
+      "Regelmäßige Berichterstattung"
+    ],
+    "image": "/2e7432a88aa3fb8f1f50c7639bd1457e.jpg",
+    "icon": "/placeholder.svg?height=80&width=80&query=billboard icon green"
+  },
+  {
+    "id": "broschuren",
+    "title": "Broschüren",
+    "shortDescription": "Hochwertige Printmaterialien, die Ihre Marke perfekt repräsentieren.",
+    "description": "Unsere professionell gestalteten Broschüren und Printmaterialien vermitteln Ihre Botschaft klar und überzeugend. Von Produktkatalogen über Unternehmensbroschüren bis hin zu Flyern und Postkarten – wir bieten maßgeschneiderte Lösungen, die Ihre Marke optimal präsentieren und Ihre Zielgruppe ansprechen.",
+    "features": [
+      "Professionelles Design",
+      "Hochwertige Druckqualität",
+      "Verschiedene Papierqualitäten und Veredelungen",
+      "Umweltfreundliche Druckoptionen",
+      "Schnelle Lieferzeiten",
+      "Kosteneffiziente Lösungen"
+    ],
+    "image": "/6799ef34f0ae9ef756ffeac732771202.jpg",
+    "icon": "/placeholder.svg?height=80&width=80&query=brochure icon green"
+  },
+  {
+    "id": "transportwerbung",
+    "title": "Transportwerbung",
+    "shortDescription": "Mobile Werbung auf Bussen, Bahnen und anderen Verkehrsmitteln.",
+    "description": "Mit unserer Transportwerbung erreichen Sie Ihre Zielgruppe dort, wo sie unterwegs ist. Wir bieten maßgeschneiderte Lösungen für Busse, Bahnen, Taxis und andere Verkehrsmittel. Unsere Experten unterstützen Sie bei der Konzeption, Produktion und Installation Ihrer mobilen Werbebotschaften.",
+    "features": [
+      "Große Reichweite in urbanen Gebieten",
+      "Verschiedene Formate (Ganzfahrzeug, Teilbeklebung, Innenraumwerbung)",
+      "Langlebige, witterungsbeständige Materialien",
+      "Professionelle Installation",
+      "Flexible Laufzeiten",
+      "Regelmäßige Zustandskontrollen"
+    ],
+    "image": "/da37d3cbdcf050ecd9becabf65cbf4c1.jpg",
+    "icon": "/placeholder.svg?height=80&width=80&query=transport advertising icon green"
+  },
+  {
+    "id": "branding",
+    "title": "Branding",
+    "shortDescription": "Umfassende Markenlösungen für Ihr Unternehmen.",
+    "description": "Unser Branding-Service hilft Ihnen, eine starke und wiedererkennbare Markenidentität zu entwickeln. Von der Logo-Entwicklung über Corporate Design bis hin zu Geschäftsausstattung und Merchandising – wir sorgen dafür, dass Ihre Marke konsistent und professionell präsentiert wird.",
+    "features": [
+      "Markenanalyse und -strategie",
+      "Logo-Design und Corporate Identity",
+      "Geschäftsausstattung (Visitenkarten, Briefpapier, etc.)",
+      "Markenrichtlinien und Style Guides",
+      "Merchandising und Werbeartikel",
+      "Konsistente Markenkommunikation"
+    ],
+    "image": "/a39cc5977f35e6307f146fd9231aaeee.jpg",
+    "icon": "/placeholder.svg?height=80&width=80&query=branding icon green"
+  }
+]

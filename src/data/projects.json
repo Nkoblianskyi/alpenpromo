@@ -1,0 +1,65 @@
+[
+  {
+    "id": "stadtmarketing-kampagne",
+    "title": "Stadtmarketing Kampagne",
+    "client": "Stadtgemeinde Beispielstadt",
+    "category": "Werbetafeln",
+    "year": 2025,
+    "description": "Für die Stadtgemeinde Beispielstadt haben wir eine umfassende Marketingkampagne entwickelt, um den Tourismus und das lokale Geschäft zu fördern. Die Kampagne umfasste strategisch platzierte Werbetafeln in der Stadt und Umgebung, die die Attraktionen und Vorzüge der Stadt hervorhoben.",
+    "challenge": "Die Herausforderung bestand darin, eine einheitliche Kampagne zu entwickeln, die sowohl Touristen als auch Einheimische anspricht und die verschiedenen Aspekte der Stadt (Kultur, Gastronomie, Einkaufen, Natur) gleichwertig präsentiert.",
+    "solution": "Wir entwickelten ein modulares Designkonzept mit einem einheitlichen Stil, aber unterschiedlichen Themenschwerpunkten. Die Werbetafeln wurden an strategischen Punkten platziert, um maximale Sichtbarkeit zu gewährleisten. Zusätzlich wurden QR-Codes integriert, die zu einer speziellen Landingpage führten, auf der Besucher weitere Informationen finden konnten.",
+    "results": "Die Kampagne führte zu einem Anstieg der Touristenzahlen um 15% im Vergleich zum Vorjahr und einer erhöhten Frequentierung der lokalen Geschäfte. Die QR-Codes wurden über 5.000 Mal gescannt, was auf ein hohes Engagement der Zielgruppe hindeutet.",
+    "testimonial": {
+      "text": "Die Zusammenarbeit mit AlpenPromo war äußerst professionell und zielführend. Das Team hat unsere Vision perfekt verstanden und in eine erfolgreiche Kampagne umgesetzt, die unsere Erwartungen übertroffen hat.",
+      "author": "Marketingleiter, Stadtgemeinde Beispielstadt"
+    },
+    "images": [
+      "/0e69f56d17eb87b43bde89d2c519e972.jpg",
+      "/8ead0ed3c8374b97b0c2a9208587365a.jpg",
+      "/53e7c4dc1f6dfbc1010fbaa77292fb16.jpg"
+    ],
+    "thumbnail": "/4633ae74b8b58a7cfc752bb06a886f08.jpg"
+  },
+  {
+    "id": "produktkatalog-design",
+    "title": "Produktkatalog Design",
+    "client": "Alpenregion Handwerkskunst",
+    "category": "Broschüren",
+    "year": 2025,
+    "description": "Für die Alpenregion Handwerkskunst, einen Zusammenschluss lokaler Handwerksbetriebe, haben wir einen hochwertigen Produktkatalog entwickelt, der die traditionellen Handwerksprodukte der Region präsentiert und vermarktet.",
+    "challenge": "Die Herausforderung bestand darin, einen Katalog zu gestalten, der die Qualität und Tradition der handgefertigten Produkte widerspiegelt, gleichzeitig aber modern und ansprechend wirkt. Zudem mussten die unterschiedlichen Produkte von über 20 Handwerksbetrieben einheitlich präsentiert werden.",
+    "solution": "Wir entwickelten ein elegantes, zeitloses Design mit hochwertiger Fotografie, das die Handwerkskunst in den Mittelpunkt stellt. Der Katalog wurde auf umweltfreundlichem Papier gedruckt und mit einer speziellen Veredelung versehen, die den hochwertigen Charakter der Produkte unterstreicht.",
+    "results": "Der Katalog wurde in einer Auflage von 10.000 Stück produziert und an Tourismusbüros, Hotels und Geschäfte in der Region verteilt. Die teilnehmenden Handwerksbetriebe verzeichneten einen Anstieg der Verkäufe um durchschnittlich 25% in den ersten drei Monaten nach Veröffentlichung des Katalogs.",
+    "testimonial": {
+      "text": "Der Produktkatalog hat unsere Erwartungen weit übertroffen. Die professionelle Gestaltung und hochwertige Produktion haben dazu beigetragen, dass unsere Handwerksprodukte nun die Aufmerksamkeit erhalten, die sie verdienen.",
+      "author": "Vorsitzender, Alpenregion Handwerkskunst"
+    },
+    "images": [
+      "/733fa8ff115a26054dc6671fbd5bc2ff.jpg",
+      "/aadf33294e158776d7e6939141e68c0f.jpg",
+      "/79db700f40420c36e0cf1d4b0808dbb2.jpg"
+    ],
+    "thumbnail": "/aadf33294e158776d7e6939141e68c0f.jpg"
+  },
+  {
+    "id": "buswerbung-tourismus",
+    "title": "Buswerbung Tourismus",
+    "client": "Alpen Tourismus Verband",
+    "category": "Transportwerbung",
+    "year": 2025,
+    "description": "Für den Alpen Tourismus Verband haben wir eine auffällige Buswerbung konzipiert und umgesetzt, die die Schönheit der alpinen Landschaft und die vielfältigen Freizeitmöglichkeiten in der Region bewirbt.",
+    "challenge": "Die Herausforderung bestand darin, eine Werbung zu gestalten, die auf den Bussen gut zur Geltung kommt, auch aus der Entfernung gut erkennbar ist und die wichtigsten Botschaften des Tourismusverbands vermittelt.",
+    "solution": "Wir entwickelten ein großflächiges Design mit atemberaubenden Landschaftsaufnahmen und prägnanten Slogans, das die gesamte Außenfläche der Busse nutzt. Die Gestaltung wurde speziell für die Busform optimiert und mit wetterfesten, langlebigen Materialien umgesetzt.",
+    "results": "Die Buswerbung wurde auf 15 Linienbussen in verschiedenen Städten umgesetzt und erreichte täglich tausende Menschen. Die Kampagne führte zu einem messbaren Anstieg der Websitebesuche und Anfragen beim Tourismusverband.",
+    "testimonial": {
+      "text": "Die Buswerbung hat für große Aufmerksamkeit gesorgt und unsere Botschaft effektiv in die Städte getragen. Die Zusammenarbeit mit AlpenPromo war von Anfang bis Ende professionell und unkompliziert.",
+      "author": "Marketingdirektor, Alpen Tourismus Verband"
+    },
+    "images": [
+      "/3efe5d5ed77e962b81f39b4894cdc7fb.jpg",
+      "/00d1d57c2448dbca27562fdd1f78f91c.jpg",
+      "/24408752e239b0f44ae55078f5b4000d.jpg"
+    ],
+    "thumbnail": "/00d1d57c2448dbca27562fdd1f78f91c.jpg"
+  }
+]
