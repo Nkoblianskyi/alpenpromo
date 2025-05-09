@@ -63,7 +63,7 @@ export default function Home() {
                     asChild
                     size="lg"
                     variant="outline"
-                    className="border-2 border-white text-white hover:bg-white hover:text-primary"
+                    className="border-2 border-white text-black hover:bg-white hover:text-primary"
                   >
                     <Link href="/kontakt" className="text-black">Kontakt aufnehmen</Link>
                   </Button>
