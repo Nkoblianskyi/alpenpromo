@@ -71,7 +71,7 @@ export function CookieConsent() {
           </TabsList>
 
           <TabsContent value="einfach" className="space-y-4 py-4">
-            <p className="text-sm text-muted-foreground">
+            <p className="text-sm text-black">
               Wir verwenden notwendige Cookies, um die Grundfunktionen der Website zu gewährleisten. Mit Ihrer
               Zustimmung verwenden wir zusätzliche Cookies, um Ihre Erfahrung zu verbessern.
             </p>
@@ -81,7 +81,7 @@ export function CookieConsent() {
             <div className="flex items-center justify-between">
               <div className="space-y-0.5">
                 <Label htmlFor="necessary">Notwendige Cookies</Label>
-                <p className="text-xs text-muted-foreground">
+                <p className="text-xs text-black">
                   Diese Cookies sind für das Funktionieren der Website unerlässlich.
                 </p>
               </div>
@@ -91,7 +91,7 @@ export function CookieConsent() {
             <div className="flex items-center justify-between">
               <div className="space-y-0.5">
                 <Label htmlFor="functional">Funktionale Cookies</Label>
-                <p className="text-xs text-muted-foreground">
+                <p className="text-xs text-black">
                   Diese Cookies ermöglichen erweiterte Funktionen und Personalisierung.
                 </p>
               </div>
@@ -105,7 +105,7 @@ export function CookieConsent() {
             <div className="flex items-center justify-between">
               <div className="space-y-0.5">
                 <Label htmlFor="analytics">Analytische Cookies</Label>
-                <p className="text-xs text-muted-foreground">
+                <p className="text-xs text-black">
                   Diese Cookies helfen uns, die Nutzung der Website zu verstehen und zu verbessern.
                 </p>
               </div>
@@ -119,7 +119,7 @@ export function CookieConsent() {
             <div className="flex items-center justify-between">
               <div className="space-y-0.5">
                 <Label htmlFor="marketing">Marketing Cookies</Label>
-                <p className="text-xs text-muted-foreground">
+                <p className="text-xs text-black">
                   Diese Cookies werden verwendet, um Werbung relevanter für Sie zu gestalten.
                 </p>
               </div>
@@ -132,7 +132,7 @@ export function CookieConsent() {
           </TabsContent>
         </Tabs>
 
-        <div className="text-xs text-muted-foreground">
+        <div className="text-xs text-black">
           Weitere Informationen finden Sie in unserer{" "}
           <Link href="/datenschutz" className="text-primary underline">
             Datenschutzerklärung
