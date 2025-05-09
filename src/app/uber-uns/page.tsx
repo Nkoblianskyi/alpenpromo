@@ -82,7 +82,7 @@ export default function AboutPage() {
               <div key={index} className="bg-white p-6 rounded-lg shadow-sm text-center">
                 <div className="flex justify-center mb-4">{value.icon}</div>
                 <h3 className="text-xl font-bold mb-2 text-primary">{value.title}</h3>
-                <p className="text-muted-foreground">{value.description}</p>
+                <p className="text-black">{value.description}</p>
               </div>
             ))}
           </div>

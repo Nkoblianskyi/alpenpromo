@@ -65,7 +65,7 @@ export default function ProjectsPage() {
           </p>
           <Link
             href="/kontakt"
-            className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-base font-medium text-white hover:bg-primary/90 border-2 border-primary"
+            className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-base font-medium text-black hover:bg-primary/90 border-2 border-primary"
           >
             Projekt besprechen
           </Link>
