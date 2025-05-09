@@ -28,7 +28,7 @@ export default function FAQPage() {
                 {category.questions.map((item, qIndex) => (
                   <AccordionItem key={qIndex} value={`item-${index}-${qIndex}`} className="border rounded-lg p-1">
                     <AccordionTrigger className="px-4 text-left font-medium">{item.question}</AccordionTrigger>
-                    <AccordionContent className="px-4 pb-4 pt-2 text-muted-foreground">{item.answer}</AccordionContent>
+                    <AccordionContent className="px-4 pb-4 pt-2 text-black">{item.answer}</AccordionContent>
                   </AccordionItem>
                 ))}
               </Accordion>
