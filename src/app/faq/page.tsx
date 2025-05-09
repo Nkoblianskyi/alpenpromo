@@ -43,13 +43,13 @@ export default function FAQPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="mailto:info@alpenpromo.com"
+                href="/kontakt"
                 className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-white hover:bg-primary/90"
               >
                 E-Mail senden
               </a>
               <a
-                href="tel:+43662153429"
+                href="/kontakt"
                 className="inline-flex items-center justify-center rounded-md border border-primary bg-transparent px-4 py-2 text-sm font-medium text-primary hover:bg-primary/10"
               >
                 Anrufen
