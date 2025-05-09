@@ -35,7 +35,7 @@ export default function ServicesPage() {
                   <div className="flex items-center gap-4 mb-4">
                     <h2 className="text-2xl font-bold text-primary">{service.title}</h2>
                   </div>
-                  <p className="text-muted-foreground mb-6">{service.shortDescription}</p>
+                  <p className="text-black mb-6">{service.shortDescription}</p>
                   <ul className="space-y-2 mb-6">
                     {service.features.slice(0, 3).map((feature, fIndex) => (
                       <li key={fIndex} className="flex items-center gap-2">
